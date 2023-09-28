@@ -1,10 +1,10 @@
-package com.saforceit.springsecuritybasic;
+package com.saforceit.springsecurity;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SpringsecuritybasicApplicationTests {
+class SaForceITApplicationTests {
 
 	@Test
 	void contextLoads() {
